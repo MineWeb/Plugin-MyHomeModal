@@ -1,0 +1,10 @@
+{
+    "HOME_MODAL": "HomeModal",
+    "TITLE": "Title",
+    "ENTER_TITLE": "Enter the title",
+    "CONTENT": "Content",
+    "PREVIEW": "Preview",
+    "MODAL_SHOWED": "Show it ?",
+    "MODAL_SUCCESSFULY_EDITED": "The informations have been successfuly saved",
+    "MODAL_ERROR": "An error occured while saving the informations"
+}

@@ -1,0 +1,1 @@
+{"name":"HomeModal","admin_menus":{"GLOBAL__CUSTOMIZE":{"HomeModal":{"route":"/admin/homemodal"}}},"author":"Vavaballz","version":"1.1.1","apiID":6,"useEvents":false,"permissions":{"available":[],"default":{"0":[],"2":[]}},"requirements":{"CMS":"^1.0.0"}}
